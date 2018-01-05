@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             for(int i=0;i<=10; i++)
             {
-                Console.WriteLine("value of i is:{0}",i);dfjhdjfhjdhfjdhfjdf
+                Console.WriteLine("value of i is:{0}",i);dfjhdjfhjdhfj
             }
         }
     }
